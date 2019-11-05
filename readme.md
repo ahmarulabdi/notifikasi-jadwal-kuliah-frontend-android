@@ -1,3 +1,3 @@
 # Notifikasi Jadwal Kuliah Frontend Android
 
-merupakan client aplication dari notifikasi-jadwal-kuliah-backend menggunakan java android.
+merupakan client aplication dari https://github.com/ahmarulabdi/notifikasi-jadwal-kuliah-backend 
