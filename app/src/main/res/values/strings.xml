@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jadwal Kuliah TI UNIKS</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_isi_krs">IsiKRSActivity</string>
+    <string name="title_activity_review_krs">ReviewKRSActivity</string>
+    <string name="title_activity_jadwal_kuliah">JadwalKuliahActivity</string>
+</resources>
